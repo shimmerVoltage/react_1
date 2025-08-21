@@ -1,9 +1,12 @@
 import './Article.css';
 
-function Article(){
+function Article(props){
+    let {title, content} = props;
     return(
         <article>
-            <h2>Современные десктопные процессоры архитектуры x86
+            <h1 style={{color:"darkblue", fontSize:"32px"}}>{title}</h1>
+            {content}
+            {/* <h2>Современные десктопные процессоры архитектуры x86
                 общие принципы работы (x86 CPU digest 2.0)</h2>
 
             <p>
@@ -32,9 +35,14 @@ function Article(){
                 <li></li>
                 <li></li>
                 <li></li>
-            </ol>
+            </ol> */}
         </article>
     )
+}
+
+Article.defaultProps = {
+    title:      "Заголовок статьи",
+    content:    "Содежимое статьи"
 }
 
 export default Article;
