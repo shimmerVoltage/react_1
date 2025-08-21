@@ -1,6 +1,7 @@
-function Article() {
-    return
-    (
+import './Article.css';
+
+function Article(){
+    return(
         <article>
             <h2>Современные десктопные процессоры архитектуры x86
                 общие принципы работы (x86 CPU digest 2.0)</h2>
@@ -17,6 +18,23 @@ function Article() {
             <p>
                 Ну и традиционное предупреждение: если иное не указано явно, то слово «процессор» в данном материале обозначает «x86(-64) процессор, предназначенный для установки в десктопы или (намного реже) мобильные компьютеры». Серверные процессоры, специализированные процессоры с архитектурой x86, всевозможные embedded-варианты — всё это в рамках статьи не рассматривается.Оглавление
             </p>
+
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus aut itaque voluptas enim vel quisquam, omnis autem aperiam, libero nostrum optio. Nemo repellendus velit facere? Impedit veniam ullam architecto fugit.</p>
+            
+            <ol>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ol>
         </article>
     )
 }
+
+export default Article;
