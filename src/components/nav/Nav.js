@@ -1,8 +1,10 @@
+import './Nav.css'
+
 function Nav(props)
 {
     return(
         <nav>
-            <ul>
+            <ul >
                 {
                     Object.keys(props.navigation).map(
                         elem =>
