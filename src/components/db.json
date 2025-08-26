@@ -1,0 +1,63 @@
+{
+  "people": [
+    {
+      "name": "John",
+      "surname": "Smith",
+      "pol": "male",
+      "age": 46,
+      "photo": "https://www.media.hw-static.com/media/2016/10/borat-20th-century-fox-103116.jpg"
+    },
+    {
+      "name": "Angela",
+      "surname": "Whinston",
+      "pol": "female",
+      "age": 31,
+      "photo": "https://images.ladbible.com/resize?type=webp&quality=1&width=3840&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltcd74acc1d0a99f3a/bltf58199007ffda751/6797a6a9e2fe9f33d66dc788/stifler_s-mum.png"
+    },
+    {
+      "name": "Alex",
+      "surname": "Solberry",
+      "pol": "male",
+      "age": 35,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/%D0%9F%D1%83%D1%87%D0%BA%D0%BE%D0%B2_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87.jpg"
+    },
+    {
+      "name": "Anna",
+      "surname": "Rayan",
+      "pol": "female",
+      "age": 33,
+      "photo": "https://i.pinimg.com/736x/e5/a7/32/e5a732eec19aa44852757a0b1c82e23a.jpg"
+    },
+    {
+      "name": "Michael",
+      "surname": "Dobkin",
+      "pol": "male",
+      "age": 30,
+      "photo": "https://rus.team/images/article/7629/2018-11-26-462_19079-1_764927.webp"
+    }
+	,
+    {
+      "name": "Marina",
+      "surname": "Bartley",
+      "pol": "female",
+      "age": 23,
+      "photo": "https://www.shutterstock.com/image-vector/spiderman-suit-icon-logo-super-600w-2407844867.jpg"
+    }
+	,
+    {
+      "name": "Amanda",
+      "surname": "Dixon",
+      "pol": "female",
+      "age": 23,
+      "photo": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/d98003c5-ebb3-402d-8e86-906cb26eb5bf/360"
+    }
+	,
+    {
+      "name": "Billy",
+      "surname": "Rosen",
+      "pol": "male",
+      "age": 30,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bodybuilderchimp.jpg/250px-Bodybuilderchimp.jpg"
+    }
+  ]
+}
